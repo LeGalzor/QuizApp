@@ -4,7 +4,7 @@ This is a Full stack application built with Angular, C# and SQL
 ## Get the Code
 
 ```
-$ git clone 
+$ git clone https://github.com/LeGalzor/QuizApp.git
 $ cd QuizApp
 $ npm install
 //run the app
