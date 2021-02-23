@@ -1,0 +1,15 @@
+<div *ngIf="data.answerResult; else wrongAnswer">
+    <h1 mat-dialog-title>Right Answer</h1>
+    <div mat-dialog-content>Good Job!</div>
+    <div mat-dialog-actions>
+      <button mat-button mat-dialog-close>Close</button>
+    </div>
+</div>
+<ng-template #wrongAnswer>
+    <h1 mat-dialog-title>Wrong Answer</h1>
+    <div mat-dialog-content>
+        <p>The correct answer is</p>{{ data.rightAnswer }}</div>
+    <div mat-dialog-actions>
+      <button mat-button mat-dialog-close>Close</button>
+    </div>
+</ng-template>
