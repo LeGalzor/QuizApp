@@ -14,8 +14,7 @@ $ ng serve
 
  ## How it works ?
  
- :tv: Video tutorial on this same topic  
- Url : https://youtu.be/geEWd7mDlTI
+ :tv: Screen captured some flaws  
  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=geEWd7mDlTI
 " target="_blank"><img src="http://img.youtube.com/vi/geEWd7mDlTI/0.jpg" 
